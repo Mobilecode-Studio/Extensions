@@ -8,7 +8,7 @@ This repository serves as the public extension index for the Mobilecode Studio I
 Each folder represents a single extension and contains its versioned `.mcx` packages:
 
 ```
-extensions/
+Extensions/
 ├── white-ball/
 │   ├── icon.png
 │   ├── white-ball_0.03.mcx
@@ -25,7 +25,7 @@ extensions/
 
 ---
 
-## 📌 Naming Rules
+## Naming Rules
 
 * Folder name = extension ID
 * MCX filename must follow this format:
@@ -39,12 +39,44 @@ extensions/
 ---
 
 
-## 📸 Previews
+## Previews
 
-### 🛍️ Mobilecode Studio Extension Store
+### Mobilecode Studio Extension Store
 
 > Discover and install extensions directly from inside the IDE.
 
-![Online Store View](images/online-store.png)
+![Online Store View](screenshots/online-store.png)
+
+---
+
+### AutoSave
+
+> Automatically saves your project at regular intervals.
+
+![AutoSave Extension Preview](screenshots/autosave.png)
+
+---
+
+### Draw
+
+> A simple drawing board extension. Sketch ideas quickly inside your workspace and save your drawings directly to your phone.
+
+![Draw Extension Preview](screenshots/draw.png)
+
+---
+
+### IPynb Viewer
+
+> View `.ipynb` (Jupyter Notebook) files directly in the IDE with syntax formatting.
+
+![IPynb Viewer Preview](screenshots/ipynb-viewer.png)
+
+---
+
+### Music Player
+
+> A minimal audio player embedded inside the IDE – code to your favorite lofi tunes.
+
+![Music Player Preview](screenshots/music-player.png)
 
 ---

@@ -80,3 +80,10 @@ Extensions/
 ![Music Player Preview](screenshots/music-player.png)
 
 ---
+
+## Game extension
+> The video below demonstrates the interaction between a device and the IDE. The IDE successfully detects various inputs from the device, including swipe gestures, gyroscopic movement, and more.
+<video width="640" height="360" controls>
+  <source src="game-extensions.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

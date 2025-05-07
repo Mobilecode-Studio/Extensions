@@ -86,3 +86,4 @@ Extensions/
 
 
 [Watch the video](https://github.com/Mobilecode-Studio/Extensions/raw/refs/heads/main/game-extensions.mp4)
+<video src='game-extensions.mp4' width=180/>

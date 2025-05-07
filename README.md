@@ -83,4 +83,6 @@ Extensions/
 
 ## Game extension
 > The video below demonstrates the interaction between a device and the IDE. The IDE successfully detects various inputs from the device, including swipe gestures, gyroscopic movement, and more.
+
+
 [Watch the video](game-extensions.mp4)

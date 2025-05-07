@@ -85,4 +85,4 @@ Extensions/
 > The video below demonstrates the interaction between a device and the IDE. The IDE successfully detects various inputs from the device, including swipe gestures, gyroscopic movement, and more.
 
 
-[Watch the video](game-extensions.mp4)
+[Watch the video](https://github.com/Mobilecode-Studio/Extensions/raw/refs/heads/main/game-extensions.mp4)
